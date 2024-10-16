@@ -1,0 +1,3 @@
+[submodule "lib/std"]
+	path = lib/std
+	url = https://github.com/shoebob15/std.git
